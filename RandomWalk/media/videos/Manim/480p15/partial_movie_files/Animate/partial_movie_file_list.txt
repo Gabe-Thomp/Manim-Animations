@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/geebthomp/Desktop/Python_Projects/Manim/media/videos/Manim/480p15/partial_movie_files/Animate/4266129954_2775614673_223132457.mp4'
+file 'file:/Users/geebthomp/Desktop/Python_Projects/Manim/media/videos/Manim/480p15/partial_movie_files/Animate/1442284246_349728088_4120647376.mp4'
+file 'file:/Users/geebthomp/Desktop/Python_Projects/Manim/media/videos/Manim/480p15/partial_movie_files/Animate/1442284246_407241817_4120647376.mp4'
+file 'file:/Users/geebthomp/Desktop/Python_Projects/Manim/media/videos/Manim/480p15/partial_movie_files/Animate/1442284246_1022596199_3122236605.mp4'
+file 'file:/Users/geebthomp/Desktop/Python_Projects/Manim/media/videos/Manim/480p15/partial_movie_files/Animate/1442284246_1998933313_3122236605.mp4'

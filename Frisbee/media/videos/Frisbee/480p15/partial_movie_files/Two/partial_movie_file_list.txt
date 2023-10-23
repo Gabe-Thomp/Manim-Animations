@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/geebthomp/Desktop/Python_Projects/Manim/Frisbee/media/videos/Frisbee/480p15/partial_movie_files/Two/741297708_522857706_970312240.mp4'
+file 'file:/Users/geebthomp/Desktop/Python_Projects/Manim/Frisbee/media/videos/Frisbee/480p15/partial_movie_files/Two/1323207656_780475376_3003064535.mp4'
+file 'file:/Users/geebthomp/Desktop/Python_Projects/Manim/Frisbee/media/videos/Frisbee/480p15/partial_movie_files/Two/1323207656_2108065678_168703062.mp4'
+file 'file:/Users/geebthomp/Desktop/Python_Projects/Manim/Frisbee/media/videos/Frisbee/480p15/partial_movie_files/Two/3146862202_4035830273_2164751569.mp4'
+file 'file:/Users/geebthomp/Desktop/Python_Projects/Manim/Frisbee/media/videos/Frisbee/480p15/partial_movie_files/Two/1888415209_180378294_772598361.mp4'
+file 'file:/Users/geebthomp/Desktop/Python_Projects/Manim/Frisbee/media/videos/Frisbee/480p15/partial_movie_files/Two/4029863988_3501687059_4074349351.mp4'
+file 'file:/Users/geebthomp/Desktop/Python_Projects/Manim/Frisbee/media/videos/Frisbee/480p15/partial_movie_files/Two/2966248200_3462323696_554137282.mp4'
+file 'file:/Users/geebthomp/Desktop/Python_Projects/Manim/Frisbee/media/videos/Frisbee/480p15/partial_movie_files/Two/4133231936_2321336338_640974623.mp4'
+file 'file:/Users/geebthomp/Desktop/Python_Projects/Manim/Frisbee/media/videos/Frisbee/480p15/partial_movie_files/Two/2406153984_3662326806_2268494662.mp4'
+file 'file:/Users/geebthomp/Desktop/Python_Projects/Manim/Frisbee/media/videos/Frisbee/480p15/partial_movie_files/Two/648219643_2321336338_1066952806.mp4'
